@@ -8,7 +8,7 @@
 ## Links relevantes
 
 - **[Vídeo](https://youtu.be/pIRSjKz9RLg?si=58i02kgNTFid2IGR&t=121)** para aumentar la RAM que utiliza el Minecraft.
-- **[Descargar](https://fabricmc.net/use/installer/) Fabric**.
+- **[Descargar](https://fabricmc.net/use/installer/) Fabric**. **[Guía de instalación](https://fabricmc.net/wiki/install)**.
 - **[Descargar](https://fabricmc.net/wiki/player:tutorials:java:windows) Java** para Minecraft.
 
 ## Releases
