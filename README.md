@@ -1,2 +1,20 @@
-# minecraft-mods
-mods para jugar con los panas
+# Mods para Minecraft
+
+> [!IMPORTANT]
+> Se te descargará un archivo `.zip`. Extráelo y pon el contenido de cada carpeta en su lugar.
+>
+> **Recuerda que los paquetes de textura tienes que activarlos dentro del juego**.
+
+## Links relevantes
+
+- **[Vídeo](https://youtu.be/pIRSjKz9RLg?si=58i02kgNTFid2IGR&t=121)** para aumentar la RAM que utiliza el Minecraft.
+- **[Descargar](https://fabricmc.net/use/installer/) Fabric**.
+- **[Descargar](https://fabricmc.net/wiki/player:tutorials:java:windows) Java** para Minecraft.
+
+## Releases
+
+El archivo que necesitas descargar es el mostrado en la foto, solo con hacer clic comenzará la descarga.
+
+![Release-photo](assets/release-foto.png)
+
+- Versión **Fabric 1.20.4**: **[Archivos](https://github.com/acoidaan/minecraft-mods/releases/tag/v1.0)**
