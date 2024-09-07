@@ -5,6 +5,12 @@
 >
 > **Recuerda que los paquetes de textura tienes que activarlos dentro del juego**.
 
+## Tutorial
+
+> **Warning**
+> El tutorial está pendiente de ser grabado. Mientras tanto, puedes seguir los pasos escritos. **ETA: 15/09/2024**
+
+
 ## Links relevantes
 
 - **[Vídeo](https://youtu.be/pIRSjKz9RLg?si=58i02kgNTFid2IGR&t=121)** para aumentar la RAM que utiliza el Minecraft.
