@@ -7,7 +7,7 @@
 
 ## Tutorial
 
-> **Warning**
+> [!WARNING]
 > El tutorial está pendiente de ser grabado. Mientras tanto, puedes seguir los pasos escritos. **ETA: 15/09/2024**
 
 
