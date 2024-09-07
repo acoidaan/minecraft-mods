@@ -28,7 +28,7 @@ El archivo que necesitas descargar es el mostrado en la foto, solo con hacer cli
 ## Mods
 
 > [!NOTE]
-> **Si algún mod no aparece, es porque se trata de un mod meramente optimizador** y no necesita ser descrito.
+> **Si algún mod no aparece, es porque se trata de un mod meramente optimizador o una dependencia para otro mod,** y no necesita ser descrito.
 
 - ***Better Beacon Placement***: Este mod permite una colocación más flexible y eficiente de los beacons, mejorando la forma en que puedes construirlas.
 - ***Biomes O' Plenty***: Añade una gran cantidad de biomas nuevos al mundo de Minecraft, con nuevos tipos de árboles, plantas y ambientes únicos.
@@ -60,3 +60,14 @@ El archivo que necesitas descargar es el mostrado en la foto, solo con hacer cli
 - ***JJThunder To The Max***: Amplía los efectos climáticos en Minecraft, agregando tormentas más realistas y peligrosas.
 - ***Jump Over Fences***: Permite a los jugadores saltar sobre las vallas.
 - ***Do a Barrell Roll***: Cambia la manera de volar usando las elitras.
+- ***Even more instruments***: Añade más instrumentos musicales.
+
+## Resource Packs
+
+- ***Fresh Animations***: Añade nuevas animaciones.
+- ***Bees Reimagined***: Cambia la apariencia de las abejas.
+- ***Asorted Allays***: Añade versiones de colores para los Allays.
+- ***Better Illagers***: Mejora la apariencia de los Pillagers.
+- ***Clean Connected Glass***: Hace que los cristales sean limpios y conectados.
+- ***GUI Revision - Darkmode***: Cambia la interfaz de usuario y le añade un modo oscuro.
+- ***More mob variants***: Añade más variantes de mobs.
