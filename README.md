@@ -10,7 +10,6 @@
 > [!WARNING]
 > El tutorial está pendiente de ser grabado. Mientras tanto, puedes seguir los pasos escritos. **ETA: 15/09/2024**
 
-
 ## Links relevantes
 
 - **[Vídeo](https://youtu.be/pIRSjKz9RLg?si=58i02kgNTFid2IGR&t=121)** para aumentar la RAM que utiliza el Minecraft.
@@ -23,4 +22,4 @@ El archivo que necesitas descargar es el mostrado en la foto, solo con hacer cli
 
 ![Release-photo](assets/release-foto.png)
 
-- Versión **Fabric 1.20.4**: **[Archivos](https://github.com/acoidaan/minecraft-mods/releases/tag/v1.0)**
+- Versión **v1.0** para **Fabric 1.20.4**: **[Archivos](https://github.com/acoidaan/minecraft-mods/releases/tag/v1.0)**
