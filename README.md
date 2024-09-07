@@ -22,4 +22,5 @@ El archivo que necesitas descargar es el mostrado en la foto, solo con hacer cli
 
 ![Release-photo](assets/release-foto.png)
 
+- Versión **v1.1** para **Fabric 1.20.4**: **[Archivos]()**
 - Versión **v1.0** para **Fabric 1.20.4**: **[Archivos](https://github.com/acoidaan/minecraft-mods/releases/tag/v1.0)**
